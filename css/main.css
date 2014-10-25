@@ -41,7 +41,7 @@ body {
 }
 .content footer {
   padding: 75px 5px 0;
-  background:url(../img/altran_bottom.jpg) 50% 0 no-repeat;
+  background:url(img/altran_bottom.jpg) 50% 0 no-repeat;
 }
 .content .chart {
 	display: block;
