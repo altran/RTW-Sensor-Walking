@@ -39,7 +39,7 @@ body {
   margin-bottom: 15px;
   padding: 7px 9px;
 }
-.content footer {
+.container footer {
   padding: 75px 5px 0;
   background:url(images/altran_bottom.jpg) 50% 0 no-repeat;
 }
