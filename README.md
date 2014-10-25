@@ -2,7 +2,7 @@
 
 
 
-forked from Kyrand/d3-smartphone-walking
+Forked from Kyrand/d3-smartphone-walking
 ========================================
 
 ```
